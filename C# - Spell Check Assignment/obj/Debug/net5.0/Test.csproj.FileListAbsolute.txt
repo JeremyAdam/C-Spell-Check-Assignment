@@ -1,0 +1,64 @@
+\\fs-059\studuser$\Gr12\j.adamson1\Programs CS30\C#\Test\bin\Debug\net5.0\Test.exe
+\\fs-059\studuser$\Gr12\j.adamson1\Programs CS30\C#\Test\bin\Debug\net5.0\Test.deps.json
+\\fs-059\studuser$\Gr12\j.adamson1\Programs CS30\C#\Test\bin\Debug\net5.0\Test.runtimeconfig.json
+\\fs-059\studuser$\Gr12\j.adamson1\Programs CS30\C#\Test\bin\Debug\net5.0\Test.runtimeconfig.dev.json
+\\fs-059\studuser$\Gr12\j.adamson1\Programs CS30\C#\Test\bin\Debug\net5.0\Test.dll
+\\fs-059\studuser$\Gr12\j.adamson1\Programs CS30\C#\Test\bin\Debug\net5.0\ref\Test.dll
+\\fs-059\studuser$\Gr12\j.adamson1\Programs CS30\C#\Test\bin\Debug\net5.0\Test.pdb
+\\fs-059\studuser$\Gr12\j.adamson1\Programs CS30\C#\Test\obj\Debug\net5.0\Test.csproj.AssemblyReference.cache
+\\fs-059\studuser$\Gr12\j.adamson1\Programs CS30\C#\Test\obj\Debug\net5.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+\\fs-059\studuser$\Gr12\j.adamson1\Programs CS30\C#\Test\obj\Debug\net5.0\Test.AssemblyInfoInputs.cache
+\\fs-059\studuser$\Gr12\j.adamson1\Programs CS30\C#\Test\obj\Debug\net5.0\Test.AssemblyInfo.cs
+\\fs-059\studuser$\Gr12\j.adamson1\Programs CS30\C#\Test\obj\Debug\net5.0\Test.csproj.CoreCompileInputs.cache
+\\fs-059\studuser$\Gr12\j.adamson1\Programs CS30\C#\Test\obj\Debug\net5.0\Test.dll
+\\fs-059\studuser$\Gr12\j.adamson1\Programs CS30\C#\Test\obj\Debug\net5.0\ref\Test.dll
+\\fs-059\studuser$\Gr12\j.adamson1\Programs CS30\C#\Test\obj\Debug\net5.0\Test.pdb
+\\fs-059\studuser$\Gr12\j.adamson1\Programs CS30\C#\Test\obj\Debug\net5.0\Test.genruntimeconfig.cache
+F:\Programs CS30\C#\C# - Nickname Generator\obj\Debug\net5.0\Test.csproj.AssemblyReference.cache
+F:\Programs CS30\C#\C# - Nickname Generator\obj\Debug\net5.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programs CS30\C#\C# - Nickname Generator\obj\Debug\net5.0\Test.AssemblyInfoInputs.cache
+F:\Programs CS30\C#\C# - Nickname Generator\obj\Debug\net5.0\Test.AssemblyInfo.cs
+F:\Programs CS30\C#\C# - Nickname Generator\obj\Debug\net5.0\Test.csproj.CoreCompileInputs.cache
+F:\Programs CS30\C#\C# - Nickname Generator\obj\Debug\net5.0\Test.dll
+F:\Programs CS30\C#\C# - Nickname Generator\obj\Debug\net5.0\ref\Test.dll
+F:\Programs CS30\C#\C# - Nickname Generator\obj\Debug\net5.0\Test.pdb
+F:\Programs CS30\C#\C# - Nickname Generator\bin\Debug\net5.0\Test.exe
+F:\Programs CS30\C#\C# - Nickname Generator\bin\Debug\net5.0\Test.deps.json
+F:\Programs CS30\C#\C# - Nickname Generator\bin\Debug\net5.0\Test.runtimeconfig.json
+F:\Programs CS30\C#\C# - Nickname Generator\bin\Debug\net5.0\Test.runtimeconfig.dev.json
+F:\Programs CS30\C#\C# - Nickname Generator\bin\Debug\net5.0\Test.dll
+F:\Programs CS30\C#\C# - Nickname Generator\bin\Debug\net5.0\ref\Test.dll
+F:\Programs CS30\C#\C# - Nickname Generator\bin\Debug\net5.0\Test.pdb
+F:\Programs CS30\C#\C# - Nickname Generator\obj\Debug\net5.0\Test.genruntimeconfig.cache
+F:\Programs CS30\C#\C# - Spell Check Assignment\bin\Debug\net5.0\Test.exe
+F:\Programs CS30\C#\C# - Spell Check Assignment\bin\Debug\net5.0\Test.deps.json
+F:\Programs CS30\C#\C# - Spell Check Assignment\bin\Debug\net5.0\Test.runtimeconfig.json
+F:\Programs CS30\C#\C# - Spell Check Assignment\bin\Debug\net5.0\Test.runtimeconfig.dev.json
+F:\Programs CS30\C#\C# - Spell Check Assignment\bin\Debug\net5.0\Test.dll
+F:\Programs CS30\C#\C# - Spell Check Assignment\bin\Debug\net5.0\ref\Test.dll
+F:\Programs CS30\C#\C# - Spell Check Assignment\bin\Debug\net5.0\Test.pdb
+F:\Programs CS30\C#\C# - Spell Check Assignment\obj\Debug\net5.0\Test.csproj.AssemblyReference.cache
+F:\Programs CS30\C#\C# - Spell Check Assignment\obj\Debug\net5.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programs CS30\C#\C# - Spell Check Assignment\obj\Debug\net5.0\Test.AssemblyInfoInputs.cache
+F:\Programs CS30\C#\C# - Spell Check Assignment\obj\Debug\net5.0\Test.AssemblyInfo.cs
+F:\Programs CS30\C#\C# - Spell Check Assignment\obj\Debug\net5.0\Test.csproj.CoreCompileInputs.cache
+F:\Programs CS30\C#\C# - Spell Check Assignment\obj\Debug\net5.0\Test.dll
+F:\Programs CS30\C#\C# - Spell Check Assignment\obj\Debug\net5.0\ref\Test.dll
+F:\Programs CS30\C#\C# - Spell Check Assignment\obj\Debug\net5.0\Test.pdb
+F:\Programs CS30\C#\C# - Spell Check Assignment\obj\Debug\net5.0\Test.genruntimeconfig.cache
+F:\Programs CS30\C#\Assignments\Programs\C# - Spell Check Assignment\bin\Debug\net5.0\Test.exe
+F:\Programs CS30\C#\Assignments\Programs\C# - Spell Check Assignment\bin\Debug\net5.0\Test.deps.json
+F:\Programs CS30\C#\Assignments\Programs\C# - Spell Check Assignment\bin\Debug\net5.0\Test.runtimeconfig.json
+F:\Programs CS30\C#\Assignments\Programs\C# - Spell Check Assignment\bin\Debug\net5.0\Test.runtimeconfig.dev.json
+F:\Programs CS30\C#\Assignments\Programs\C# - Spell Check Assignment\bin\Debug\net5.0\Test.dll
+F:\Programs CS30\C#\Assignments\Programs\C# - Spell Check Assignment\bin\Debug\net5.0\ref\Test.dll
+F:\Programs CS30\C#\Assignments\Programs\C# - Spell Check Assignment\bin\Debug\net5.0\Test.pdb
+F:\Programs CS30\C#\Assignments\Programs\C# - Spell Check Assignment\obj\Debug\net5.0\Test.csproj.AssemblyReference.cache
+F:\Programs CS30\C#\Assignments\Programs\C# - Spell Check Assignment\obj\Debug\net5.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programs CS30\C#\Assignments\Programs\C# - Spell Check Assignment\obj\Debug\net5.0\Test.AssemblyInfoInputs.cache
+F:\Programs CS30\C#\Assignments\Programs\C# - Spell Check Assignment\obj\Debug\net5.0\Test.AssemblyInfo.cs
+F:\Programs CS30\C#\Assignments\Programs\C# - Spell Check Assignment\obj\Debug\net5.0\Test.csproj.CoreCompileInputs.cache
+F:\Programs CS30\C#\Assignments\Programs\C# - Spell Check Assignment\obj\Debug\net5.0\Test.dll
+F:\Programs CS30\C#\Assignments\Programs\C# - Spell Check Assignment\obj\Debug\net5.0\ref\Test.dll
+F:\Programs CS30\C#\Assignments\Programs\C# - Spell Check Assignment\obj\Debug\net5.0\Test.pdb
+F:\Programs CS30\C#\Assignments\Programs\C# - Spell Check Assignment\obj\Debug\net5.0\Test.genruntimeconfig.cache
